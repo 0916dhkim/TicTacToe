@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# Exceptions
+!*/
+!**.gitignore
+!**.c
+!**.h
+!**makefile
+!**README*
